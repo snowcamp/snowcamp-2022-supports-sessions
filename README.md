@@ -101,7 +101,8 @@
 
 ### La Clean Architecture dans le web ([Martin Choraine](https://twitter.com/mchoraine))
 
-* nothing yet
+* [Support / Diaporama](https://cutt.ly/cOULjEl)
+* [Sources](https://cutt.ly/JOULWjj)
 
 ### REST next level : Ecrire des APIs web orientées métier ([Julien Topçu](https://twitter.com/JulienTopcu))
 
