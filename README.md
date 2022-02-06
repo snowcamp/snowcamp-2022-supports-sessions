@@ -48,7 +48,7 @@
 
 ### The Eternal Sunshine of the Zero Build Pipeline ([M4dz](https://twitter.com/m4d_z))
 
-* nothing yet
+* [Support / Diaporama](https://m4dz.net/t/zero-build/)
 
 ### Identité numérique décentralisée et droit d'être soi : protéger son intégrité sur Internet ([Adrien Wattez](https://twitter.com/WattezAdrien) et [Antoine Cailly](https://twitter.com/antoinecailly))
 
