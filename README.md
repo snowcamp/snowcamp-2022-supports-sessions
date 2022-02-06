@@ -205,7 +205,7 @@
 
 ### "Common tips & mistakes" en Go - et comment les résoudre ([Aurélie Vache](https://twitter.com/aurelievache))
 
-* nothing yet
+* [Support / Diaporama](https://noti.st/aurelievache/1dIUT8/common-tips-mistakes-in-go-and-how-to-solve-them)
 
 ### Hack me if you can ([Houssem Belhadj Ahmed](https://twitter.com/7ouss3m) et [Mickael Jeanroy](https://twitter.com/mickaeljeanroy))
 
