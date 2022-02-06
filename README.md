@@ -68,7 +68,8 @@
 
 ### Vous prendrez bien un peu de sucre dans votre java ? ([Sandrine Banas](https://twitter.com/cosjava))
 
-* nothing yet
+* [Support / Diaporama](https://sucresyntaxique.web.app)
+* [Sources](https://github.com/Cosjava/syntacticsugar-demo)
 
 ### Automation as a service avec la stack Ansible/Tower/Squest ([Nicolas Marcq](https://twitter.com/sispheor))
 
