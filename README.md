@@ -177,7 +177,7 @@
 
 ### Redis, ce n'est pas que pour le cache ([Grégoire Pineau](https://twitter.com/lyrixx))
 
-* nothing yet
+* [Support / Diaporama](https://speakerdeck.com/lyrixx/redis-ce-nest-pas-que-pour-le-cache-v2-41bf480e-c296-4540-8b02-462431acc595)
 
 ### La 3D sur le web : trucs et astuces pour un effet "wahou" garanti ! ([Julien Sulpis](https://twitter.com/jsulpis))
 
