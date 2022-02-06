@@ -147,7 +147,7 @@
 
 ### Art & Entropie: Du chaos dans ton frontend ([Thibaud Courtoison](https://twitter.com/errorname_))
 
-* nothing yet
+* [Support / Diaporama](https://docs.google.com/presentation/d/1uL8zv6aOAv5h_8c01ouBbIJdKr2twAHqKOheeIit9sk)
 
 ### Père Castor 🐻, raconte nous une histoire (d'OPS) ([David Aparicio](https://twitter.com/dadideo))
 
