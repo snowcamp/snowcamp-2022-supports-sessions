@@ -89,7 +89,7 @@
 
 ### Orchestration de pipeline de données en serverless avec Google Workflow ([Guillaume Blaquiere](https://twitter.com/gblaquiere))
 
-* nothing yet
+* [Support / Diaporama](https://docs.google.com/presentation/d/1jszqhuqJs5Y2tWKTgz4KP7ykb5Stdw9e_29pncsJXQ8/present?slide=id.g5f3776d0dd_2_3804)
 
 ### Les fonctions (récursives) décortiquées ([Frédéric Cabestre](https://twitter.com/fcabestre))
 
