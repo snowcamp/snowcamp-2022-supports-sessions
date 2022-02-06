@@ -64,7 +64,7 @@
 
 ### Notre recette de l'équipe parfaite 🧁 ([Estelle Landry](https://twitter.com/estelandry) et [Yvonnick Frin](https://twitter.com/YvonnickFrin))
 
-* nothing yet
+* [Support / Diaporama](https://shorturl.at/hxCL1)
 
 ### Vous prendrez bien un peu de sucre dans votre java ? ([Sandrine Banas](https://twitter.com/cosjava))
 
