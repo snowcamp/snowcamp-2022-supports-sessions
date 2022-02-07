@@ -5,7 +5,7 @@
 
 ### Découpe mon monolithe ([Bouillier Clément](https://twitter.com/clem_bouillier) et [Florent Pellet](https://twitter.com/florentpellet) et [Johan Martinsson](https://twitter.com/johan_alps))
 
-* nothing yet
+* [Support / Diaporama](https://www.slideshare.net/martinsson/split-my-monolith-workshop)
 
 ### Développez et déployez votre application web fullstack avec Azure Static Web Apps et GitHub Actions. ([Olivier Leplus](https://twitter.com/olivierleplus) et [Yohan Lasorsa](https://twitter.com/sinedied))
 
