@@ -169,7 +169,7 @@
 
 ### Checklist pour concevoir une application dans le cloud : 10 conseils à l'attention des concepteurs et architectes ([Alexandre Touret](https://twitter.com/touret_alex))
 
-* nothing yet
+* [Support](https://speakerdeck.com/alexandretouret/checklist-pour-concevoir-une-application-dans-le-cloud-10-conseils-a-lattention-des-concepteurs-et-architectes)
 
 ### Comment ne pas jeter son application Frontend tous les deux ans ? ([Antoine Caron](https://twitter.com/Slashgear_) et [Florent Dubost](https://twitter.com/fooragnak))
 
