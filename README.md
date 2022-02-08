@@ -56,7 +56,7 @@
 
 ### Mais, à quoi ça sert un DevRel ? ([Aurélie Vache](https://twitter.com/aurelievache) et [Horacio Gonzalez](https://twitter.com/LostInBrittany))
 
-* nothing yet
+* [Support / Diaporama](https://noti.st/aurelievache/PJZgaj/mais-a-quoi-ca-sert-un-devrel)
 
 ### Migrer une « vraie application du monde réel » vers Quarkus. Comment ? Mais surtout pourquoi ? ([Clement Escoffier](https://twitter.com/clementplop))
 
