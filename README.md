@@ -33,7 +33,7 @@
 
 ### Using a Design First approach to build a simple book shop application ([Ljubica Lazarevic](https://twitter.com/ellazal))
 
-* nothing yet
+* [Support / Slides](https://github.com/lju-lazarevic/apim-training)
 
 ### Devenir svelte avec Svelte ([Anthony Le Goas](https://twitter.com/anthony_legoas) et [Patrice De Saint Steban](https://twitter.com/patoudss))
 
