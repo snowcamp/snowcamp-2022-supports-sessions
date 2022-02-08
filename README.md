@@ -153,7 +153,7 @@
 
 ### Père Castor 🐻, raconte nous une histoire (d'OPS) ([David Aparicio](https://twitter.com/dadideo))
 
-* nothing yet
+* [Support / Diaporama](https://davidaparicio.gitlab.io/website/talks/SnowCamp2022_PereCastor.pdf)
 
 ### Ajoutez une vraie recherche à votre application legacy sans vous prendre la tête ([David Pilato](https://twitter.com/dadoonet) et [Nicolas Fränkel](https://twitter.com/nicolas_frankel))
 
