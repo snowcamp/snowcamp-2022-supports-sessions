@@ -114,7 +114,7 @@
 
 ### L'Open Source au secours du développeur (et de l'architecte) ? ([Stéphane Philippart](https://twitter.com/wildagsx))
 
-* nothing yet
+* [Support / Diaporama](https://noti.st/philippart-s/8XjcQg/opensource-au-secours-du-developpeur-et-de-larchitecte)
 
 ### The Mushin Way to Frontend Performance: Switch Left to a Pure Design System ([M4dz](https://twitter.com/m4d_z))
 
