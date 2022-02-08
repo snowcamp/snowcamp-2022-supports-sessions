@@ -181,7 +181,8 @@
 
 ### La 3D sur le web : trucs et astuces pour un effet "wahou" garanti ! ([Julien Sulpis](https://twitter.com/jsulpis))
 
-* nothing yet
+* [Support](https://jsulpis.github.io/3D-on-the-web)
+* [Sources](https://github.com/jsulpis/3D-on-the-web)
 
 ### Un datahub dans Azure : Retour d'expérience sur les services managés ([Philippe Morisseau](https://twitter.com/morisseauphi))
 
