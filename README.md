@@ -35,7 +35,7 @@
 
 * nothing yet
 
-### Devenir svelte avec Svelte ([Anthony Le Goas](https://twitter.com/anthony_legoas) et [Patrice De Saint Steban](https://twitter.com/patoudss)) 
+### Devenir svelte avec Svelte ([Anthony Le Goas](https://twitter.com/anthony_legoas) et [Patrice De Saint Steban](https://twitter.com/patoudss))
 
 * nothing yet
 
@@ -95,7 +95,7 @@
 
 * nothing yet
 
-### Les tests unitaires Javascript, vers l'infini et au-delà ([Mathilde Rigabert Lemée](https://twitter.com/MathildeLemee) et Raphaël Verdier) 
+### Les tests unitaires Javascript, vers l'infini et au-delà ([Mathilde Rigabert Lemée](https://twitter.com/MathildeLemee) et Raphaël Verdier)
 
 * nothing yet
 
@@ -157,7 +157,8 @@
 
 ### Ajoutez une vraie recherche à votre application legacy sans vous prendre la tête ([David Pilato](https://twitter.com/dadoonet) et [Nicolas Fränkel](https://twitter.com/nicolas_frankel))
 
-* nothing yet
+* [Diaporama](https://www.slideshare.net/nfrankel/snowcamp-adding-search-to-a-legacy-application)
+* [Sources](https://github.com/hazelcast-demos/legacy-search)
 
 ### InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane ([Stéphane Teyssier](https://twitter.com/steyssier))
 
@@ -212,6 +213,6 @@
 
 * nothing yet
 
-### DevSecOps : de la sécurité dans mon DevOps ([Adrien Pessu](https://twitter.com/adrienpessu)) 
+### DevSecOps : de la sécurité dans mon DevOps ([Adrien Pessu](https://twitter.com/adrienpessu))
 
 * nothing yet
