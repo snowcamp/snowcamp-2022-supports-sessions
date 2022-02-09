@@ -199,7 +199,8 @@
 
 ### Construisons ensemble une application Micro-Frontend multi-frameworks avec Webpack 5 Module Federation ([Sylvain Dedieu](https://twitter.com/DedieuS))
 
-* nothing yet
+* [Support](https://github.com/sdedieu/snow-shop/blob/main/Talk_Module_Federation_multi_frameworks.pptx) 
+* [Sources](https://github.com/sdedieu/snow-shop)
 
 ### WebAssembly n'est pas qu'une affaire de frontend ([Benjamin Coenen](https://twitter.com/bnj25))
 
