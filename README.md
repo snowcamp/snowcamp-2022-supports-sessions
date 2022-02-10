@@ -174,7 +174,7 @@
 
 ### Comment ne pas jeter son application Frontend tous les deux ans ? ([Antoine Caron](https://twitter.com/Slashgear_) et [Florent Dubost](https://twitter.com/fooragnak))
 
-* nothing yet
+* [Support](https://speakerdeck.com/slashgear/snowcamp-2022-comment-ne-pas-jeter-a-la-poubelle-son-app-js-tous-les-2-ans)
 
 ### Redis, ce n'est pas que pour le cache ([Grégoire Pineau](https://twitter.com/lyrixx))
 
