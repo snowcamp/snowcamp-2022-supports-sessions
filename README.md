@@ -162,7 +162,7 @@
 
 ### InfraAsCode et multicloud à la sauce Kubernetes avec Crossplane ([Stéphane Teyssier](https://twitter.com/steyssier))
 
-* nothing yet
+* [Support](https://speakerdeck.com/wescale/snowcamp-2022-infraascode-et-multicloud-a-la-sauce-kubernetes-avec-crossplane)
 
 ### Y a-t-il un copilote dans mon IDE ? ([Tiffany Souterre](https://twitter.com/tiffanysouterre))
 
