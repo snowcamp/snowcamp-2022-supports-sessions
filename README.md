@@ -21,7 +21,7 @@
 
 ### Storybook from 0️⃣Zero to 🦸Hero ([Gaëtan Maisse](https://twitter.com/gaetanmaisse) et Thibaud Avenier)
 
-* nothing yet
+* [Support / Diaporama](https://bit.ly/storybook-zero-hero)
 
 ### Workshop Kafka Streams 101 (Arnaud le Bec et [Victor Gallet](https://twitter.com/GalletVictor))
 
@@ -122,7 +122,8 @@
 
 ### Web-Types : des types pour vos templates HTML ! ([Gaëtan Maisse](https://twitter.com/gaetanmaisse))
 
-* nothing yet
+* [Support / Diaporama](https://bit.ly/web-types)
+* [Sources](https://bit.ly/web-types-playground)
 
 ### Why write operators in Go when you can write them in Java? ([Christophe Laprun](https://twitter.com/metacosm))
 
