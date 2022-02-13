@@ -81,7 +81,8 @@
 
 ### REX Mutation Testing, après un an de mise en place chez un client (Christophe Tardella)
 
-* nothing yet
+* [Support / Diaporama](https://docs.google.com/presentation/d/16kc35Ej_9fVtWeeL_uwseYOaVJsXM4wzNiAu52PJ6xE/edit?usp=sharing)
+* [Code](https://github.com/kebuu/mutation-testing)
 
 ### C4 et au-delà : documenter une architecture agilement ([Nicolas Delsaux](https://twitter.com/riduidel))
 
