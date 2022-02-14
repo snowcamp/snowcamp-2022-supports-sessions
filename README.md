@@ -218,4 +218,4 @@
 
 ### DevSecOps : de la sécurité dans mon DevOps ([Adrien Pessu](https://twitter.com/adrienpessu))
 
-* nothing yet
+* [Support](https://adrienpessu.github.io/slides/devops_securite_dans_mon_devops_snowcamp.pdf)
